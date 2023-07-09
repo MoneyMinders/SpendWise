@@ -1,0 +1,6 @@
+[submodule "Message-Listener-Service"]
+	path = Message-Listener-Service
+	url = https://github.com/sagkhr23/Message-Listener-Service
+[submodule "Message-Producer-Service"]
+	path = Message-Producer-Service
+	url = https://github.com/sagkhr23/Message-Producer-Service
